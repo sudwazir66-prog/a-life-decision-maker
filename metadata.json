@@ -1,0 +1,6 @@
+{
+  "name": "AI Life Decision Simulator",
+  "description": "Simulate personal high-stakes decisions through five distinct advisor perspectives with calibrated confidence scores and deep tradeoff analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
